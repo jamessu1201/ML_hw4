@@ -1,4 +1,4 @@
 *.txt
 !requirements.txt
 result/*
-data/*
+*.zip
